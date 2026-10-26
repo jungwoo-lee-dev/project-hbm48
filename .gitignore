@@ -1,0 +1,28 @@
+# Claude local overrides
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Remotion
+node_modules/
+video/out/
+*.log
+
+# Large raw media (keep finals elsewhere or use Git LFS)
+*.mp4
+*.mov
+*.wav
+*.psd
+assets/**/raw/
+
+.DS_Store
+Thumbs.db
