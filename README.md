@@ -18,7 +18,7 @@ Original and fictional. It's inspired by school-idol anime but uses none of thei
 | `docs/decisions/` | Short records of key decisions |
 | `episodes/` | One folder per short: script, shot list, notes |
 | `video/` | Video rendering code (Remotion, not yet scaffolded) |
-| `assets/` | Images, backgrounds, audio (large files are not committed) |
+| `assets/` | Local copy of media, synced with a private Hugging Face dataset (not in git) |
 
 ## Working with Claude
 Open the repo in Claude Code. Useful entry points:
