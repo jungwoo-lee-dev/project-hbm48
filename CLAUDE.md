@@ -26,6 +26,9 @@ If a script conflicts with canon, canon wins. If canon needs to change, propose 
 3. Work on a branch (`ep/NNN-slug` or `feat/...`), open a PR to `main`, and keep PRs small.
 4. Commit messages: imperative, short (`Add ep003 script`, `Fix CVD member voice line`).
 
+## Tooling
+- Everything runs from the project `.venv/` (uv, Python 3.12). Use `uv run <cmd>` (e.g. `uv run gh ...`). Don't install tools globally. See `docs/decisions/0002-project-local-tooling.md`.
+
 ## Video stack (planned)
 - Remotion (React + TypeScript) in `video/`, one composition per episode, 1080×1920 @ 30fps.
 - Not scaffolded yet. Set it up when the first episode is ready to render, and record the choice in `docs/decisions/`.
