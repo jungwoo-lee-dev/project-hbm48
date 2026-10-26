@@ -18,7 +18,7 @@ If a script conflicts with canon, canon wins. If canon needs to change, propose 
 - Keep every company fictional. Don't name, or use the logos of, real semiconductor companies (Japanese or Korean) or real people.
 - The competitor rivalry is friendly and comedic. Never mock nationalities or real people.
 - Keep technical jokes accurate. Process terms should be used correctly.
-- Never commit secrets, API keys or large raw media (see `.gitignore`).
+- Never commit secrets, API keys or media. Media goes to the private Hugging Face dataset (see Data below).
 
 ## Workflow
 1. Each episode lives in `episodes/epNNN-slug/` (copy `episodes/_template/`).
@@ -28,6 +28,12 @@ If a script conflicts with canon, canon wins. If canon needs to change, propose 
 
 ## Tooling
 - Everything runs from the project `.venv/` (uv, Python 3.12). Use `uv run <cmd>` (e.g. `uv run gh ...`). Don't install tools globally. See `docs/decisions/0002-project-local-tooling.md`.
+
+## Data
+- All media (art, backgrounds, audio, footage, renders) lives in the private HF dataset `jungwoo-lee-dev/project-hbm48`. `assets/` is the local copy and is gitignored.
+- Pull: `uv run hf download jungwoo-lee-dev/project-hbm48 --repo-type dataset --local-dir assets`
+- Push: `uv run hf upload jungwoo-lee-dev/project-hbm48 assets . --repo-type dataset`
+- Never make the dataset public or link it from public pages. See `docs/decisions/0003-media-on-hugging-face.md`.
 
 ## Video stack (planned)
 - Remotion (React + TypeScript) in `video/`, one composition per episode, 1080×1920 @ 30fps.

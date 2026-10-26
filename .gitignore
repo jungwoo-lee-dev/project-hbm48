@@ -17,12 +17,15 @@ node_modules/
 video/out/
 *.log
 
-# Large raw media (keep finals elsewhere or use Git LFS)
+# Media lives in the private Hugging Face dataset, not git (see docs/decisions/0003)
+assets/**
+!assets/*/
+!assets/**/.gitkeep
 *.mp4
 *.mov
 *.wav
+*.mp3
 *.psd
-assets/**/raw/
 
 .DS_Store
 Thumbs.db

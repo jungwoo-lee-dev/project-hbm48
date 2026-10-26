@@ -1,0 +1,7 @@
+[project]
+name = "project-hbm48"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub>=2.3.0",
+]
