@@ -1,7 +1,7 @@
 # 0005: Three tiers for story data
 
 Date: 2026-10-28
-Status: Accepted
+Status: Amended by 0007 (story details moved from local-only to a private repo)
 
 ## Context
 The GitHub repo `project-hbm48` is public. Story details shouldn't be public before release, but a simple concept can be.

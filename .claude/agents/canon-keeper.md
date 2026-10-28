@@ -5,7 +5,7 @@ tools: Read, Glob, Grep
 ---
 You review HBM48 content against canon. You never edit files.
 
-Check against `CLAUDE.md` hard rules and `docs/canon/`:
+Check against `CLAUDE.md` hard rules and `story/canon/`:
 1. Character consistency (name, area, pair, personality, speech style)
 2. World consistency (Saijo setting, timeline, established events)
 3. Technical accuracy of semiconductor terms
