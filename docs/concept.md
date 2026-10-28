@@ -17,10 +17,10 @@ In a sake town where "there's nothing here," eight memory-chip fab workers form 
 
 | Pair | Process areas |
 |---|---|
-| Pattern | Photolithography, Dry Etch |
-| Deposition | CVD, PVD |
-| Planarize & Clean | CMP, Wet Clean |
-| Doping | Ion Implant, Diffusion / Anneal |
+| Photo / Dry | Photolithography, Dry Etch |
+| CVD / PVD | Chemical and Physical Vapor Deposition |
+| CMP / Wet | Chemical Mechanical Planarization, Wet Clean |
+| Implant / Diffusion | Ion Implantation, Diffusion |
 
 ## Principles
 - All companies, fabs and characters are fictional.
