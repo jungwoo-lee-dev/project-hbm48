@@ -3,7 +3,7 @@
 Guidance for Claude working in this repo. Keep this file short. Detailed lore lives in `docs/canon/`.
 
 ## Project
-HBM48: a short-form (9:16, ≤60s) idol drama series with dry workplace humor. The base mood is office-worker fatigue and disillusionment (社畜); comedy is seasoning, not the main dish. Eight Japanese fab workers in Saijo, Higashihiroshima form an idol group to escape underpay and overtime, and end up reviving their town.
+HBM48: a short-form (9:16, ≤3 min, usually 1–2 min) idol drama series with dry workplace humor. The base mood is office-worker fatigue and disillusionment (社畜); comedy is seasoning, not the main dish. Eight Japanese fab workers in Saijo, Higashihiroshima form an idol group to escape underpay and overtime, and end up reviving their town.
 
 ## Sources of truth
 - World and tone: `docs/canon/world.md`

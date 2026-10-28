@@ -6,7 +6,7 @@
 In a sake town where "there's nothing here," eight memory-chip fab workers form an idol group to change lives worn down by endless overtime.
 
 ## Basics
-- **Format:** Vertical (9:16) short-form animation, 60 seconds or less per episode
+- **Format:** Vertical (9:16) short-form animation, up to 3 minutes per episode (usually 1–2 minutes)
 - **Language:** Japanese audio, with Japanese, Korean and English subtitles
 - **Setting:** Saijo, Higashihiroshima, Hiroshima Prefecture. A town of sake breweries, rice fields and a shuttered shopping arcade.
 - **Tone:** A drama that starts from office-worker (社畜) fatigue and disillusionment. The humor is dry; the feelings are sincere.

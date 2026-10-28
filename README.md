@@ -1,6 +1,6 @@
 # HBM48
 
-A short-form vertical video series (9:16, under 60s) about **HBM48**, an idol group made up of eight overworked fab workers in Saijo, Higashihiroshima.
+A short-form vertical video series (9:16, up to 3 minutes) about **HBM48**, an idol group made up of eight overworked fab workers in Saijo, Higashihiroshima.
 
 Original and fictional. It's inspired by school-idol anime but uses none of their assets, names or trademarks.
 

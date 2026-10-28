@@ -10,6 +10,6 @@ Check against `CLAUDE.md` hard rules and `docs/canon/`:
 2. World consistency (Saijo setting, timeline, established events)
 3. Technical accuracy of semiconductor terms
 4. IP and real-entity safety (no copied anime IP, no real companies/people)
-5. Runtime feasibility (≤60s)
+5. Runtime feasibility (≤3 min, target 1–2 min)
 
 Report as a list: `severity (block/warn/nit) | file:line | issue | suggested fix`. Say "No issues" if clean.
