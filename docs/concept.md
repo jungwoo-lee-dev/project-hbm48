@@ -1,27 +1,27 @@
-# HBM48 컨셉
+# HBM48 concept
 
-> 공개용 간단 컨셉입니다. 세부 설정은 비공개입니다.
+> Public, high-level concept. Detailed story settings are kept private.
 
-## 한 줄 요약
-"아무것도 없는" 지방 사케 마을의 메모리 반도체 공장에서 일하는 직장인 여덟 명이 아이돌 그룹을 만든다. 잔업에 지친 평범한 삶을 바꾸기 위해서.
+## Logline
+In a sake town where "there's nothing here," eight memory-chip fab workers form an idol group to change lives worn down by endless overtime.
 
-## 기본 정보
-- **형식:** 세로(9:16) 숏폼 애니메이션, 한 화 60초 이하
-- **언어:** 일본어 음성, 자막은 일본어·한국어·영어
-- **무대:** 히로시마현 히가시히로시마시 사이조. 사케 양조장과 논, 셔터가 내려진 상점가가 있는 마을
-- **톤:** 사축(社畜)의 피로와 현타에서 시작하는 드라마. 웃음은 건조하고, 감정은 진지합니다.
+## Basics
+- **Format:** Vertical (9:16) short-form animation, 60 seconds or less per episode
+- **Language:** Japanese audio, with Japanese, Korean and English subtitles
+- **Setting:** Saijo, Higashihiroshima, Hiroshima Prefecture. A town of sake breweries, rice fields and a shuttered shopping arcade.
+- **Tone:** A drama that starts from office-worker (社畜) fatigue and disillusionment. The humor is dry; the feelings are sincere.
 
-## 그룹
-- **HBM48:** HBM은 고대역폭 메모리(High Bandwidth Memory)입니다. 여덟 멤버는 "8단 적층"이고, 48은 4개 페어 × 2명입니다.
-- **멤버:** 모두 일본인이고, 각자 반도체 공정 하나씩을 담당합니다. 센터는 포토 공정 담당입니다.
+## The group
+- **HBM48:** HBM stands for high-bandwidth memory. The eight members are an "8-high stack," and 48 means four pairs of two.
+- **Members:** All Japanese, each covering one semiconductor process area. The Photolithography member is the center.
 
-| 페어 | 공정 |
+| Pair | Process areas |
 |---|---|
-| Pattern | 포토, 드라이 에치 |
-| Deposition | CVD, PVD |
-| Planarize & Clean | CMP, 웻 클린 |
-| Doping | 이온 주입, 확산/어닐 |
+| Photo / Dry | Photolithography, Dry Etch |
+| CVD / PVD | Chemical and Physical Vapor Deposition |
+| CMP / Wet | Chemical Mechanical Planarization, Wet Clean |
+| Implant / Diffusion | Ion Implantation, Diffusion |
 
-## 원칙
-- 등장하는 회사, 공장, 인물은 모두 가상입니다.
-- 창작물입니다.
+## Principles
+- All companies, fabs and characters are fictional.
+- Original work.
