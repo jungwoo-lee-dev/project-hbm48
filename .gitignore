@@ -27,9 +27,8 @@ assets/**
 *.mp3
 *.psd
 
-# Story details stay local; the GitHub repo is public (see docs/decisions/0005)
-docs/canon/*
-!docs/canon/README.md
+# Story details live in a separate private repo cloned to story/ (see docs/decisions/0007)
+story/
 episodes/*
 !episodes/_template/
 

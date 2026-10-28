@@ -18,4 +18,4 @@ HBM48 is a Japanese-language anime short set in Hiroshima. The creator's native 
 ## Consequences
 - Scripts carry three layers: Japanese line, Korean gloss, translator notes.
 - Wordplay is designed in Japanese first.
-- A shared glossary (`docs/canon/glossary.md`) will keep fab and idol terms consistent across the three languages. It gets added when it's first needed.
+- A shared glossary (`story/canon/glossary.md`) will keep fab and idol terms consistent across the three languages. It gets added when it's first needed.

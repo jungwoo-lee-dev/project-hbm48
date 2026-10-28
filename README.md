@@ -14,9 +14,9 @@ Original and fictional. It's inspired by school-idol anime but uses none of thei
 |---|---|
 | `CLAUDE.md` | Main instructions for Claude (the primary developer) |
 | `.claude/` | Claude Code settings, subagents, skills |
-| `docs/canon/` | Story world and characters (source of truth) |
 | `docs/decisions/` | Short records of key decisions |
-| `episodes/` | One folder per short: script, shot list, notes |
+| `episodes/_template/` | Template for a new episode folder |
+| `story/` | Story world, characters and episodes (separate private repo, not in this repo) |
 | `video/` | Video rendering code (Remotion, not yet scaffolded) |
 | `assets/` | Local copy of media, synced with a private Hugging Face dataset (not in git) |
 
