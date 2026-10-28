@@ -3,7 +3,7 @@
 Guidance for Claude working in this repo. Keep this file short. Detailed lore lives in `docs/canon/`.
 
 ## Project
-HBM48: a short-form (9:16, ≤60s) idol drama series with dry workplace humor. The base mood is office-worker fatigue and disillusionment (社畜, 현타); comedy is seasoning, not the main dish. Eight Japanese fab workers in Saijo, Higashihiroshima form an idol group to escape underpay and overtime, and end up reviving their town.
+HBM48: a short-form (9:16, ≤60s) idol drama series with dry workplace humor. The base mood is office-worker fatigue and disillusionment (社畜); comedy is seasoning, not the main dish. Eight Japanese fab workers in Saijo, Higashihiroshima form an idol group to escape underpay and overtime, and end up reviving their town.
 
 ## Sources of truth
 - World and tone: `docs/canon/world.md`
@@ -15,6 +15,7 @@ If a script conflicts with canon, canon wins. If canon needs to change, propose 
 ## Hard rules
 - All members are Japanese. The Photolithography member is the lead/center.
 - Audio is Japanese; subtitles are JA/KO/EN. Plan in Korean, write dialogue directly in Japanese. See `docs/decisions/0004-languages.md`.
+- Everything committed to GitHub is in English (docs, decisions, commits, PRs). The repo doesn't target Korean readers. Korean is for local planning files only.
 - Original work only. Don't use Love Live!, Aqours or μ's names, characters, songs, logos or art. "Inspired by" is fine; copying isn't.
 - Keep every company fictional. Don't name, or use the logos of, real semiconductor companies (Japanese or Korean) or real people.
 - The competitor rivalry is friendly and comedic. Never mock nationalities or real people.
