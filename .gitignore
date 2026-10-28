@@ -27,5 +27,11 @@ assets/**
 *.mp3
 *.psd
 
+# Story details stay local; the GitHub repo is public (see docs/decisions/0005)
+docs/canon/*
+!docs/canon/README.md
+episodes/*
+!episodes/_template/
+
 .DS_Store
 Thumbs.db
